@@ -67,7 +67,7 @@
       "properties": {
         "publisher": "Microsoft.Azure.Extensions",
         "type": "CustomScript",
-        "typeHandlerVersion": "2.0",
+        "typeHandlerVersion": "1.5.2.1",
         "autoUpgradeMinorVersion": true,
         "settings": {
           "fileUris": [
@@ -91,7 +91,7 @@
       "properties": {
         "publisher": "Microsoft.Azure.Extensions",
         "type": "CustomScript",
-        "typeHandlerVersion": "2.0",
+        "typeHandlerVersion": "1.5.2.1",
         "autoUpgradeMinorVersion": true,
         "settings": {
           "fileUris": [
